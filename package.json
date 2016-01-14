@@ -1,0 +1,24 @@
+{
+  "name": "internet",
+  "version": "0.0.0",
+  "description": "yet another slack bot",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanleonino/internet.git"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "friendly"
+  ],
+  "author": "Jean Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeanleonino/internet/issues"
+  },
+  "homepage": "https://github.com/jeanleonino/internet#readme",
+  "dependencies": {
+    "botkit": "0.0.5"
+  }
+}
